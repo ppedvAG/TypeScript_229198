@@ -1,0 +1,10 @@
+
+{
+    "compilerOptions": {
+      "target": "es2016", // Compiler-Ziel: ECMAScript 6 oder höher
+      "module": "commonjs", // Verwende das CommonJS-Modulsystem
+      "strict": true, // Aktiviere strikte Typenprüfung
+      "experimentalDecorators": true, // Aktiviere experimentelle Unterstützung für Dekoratoren
+      "emitDecoratorMetadata": true // Aktiviere Metadaten für Dekoratoren
+    }
+  }
